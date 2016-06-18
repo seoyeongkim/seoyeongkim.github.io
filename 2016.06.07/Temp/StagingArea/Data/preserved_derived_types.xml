@@ -1,0 +1,10 @@
+<linker>
+<assembly fullname="Assembly-CSharp">
+<type fullname="Coin" preserve="all"/>
+<type fullname="DeathTrigger" preserve="all"/>
+<type fullname="PlatformFall" preserve="all"/>
+<type fullname="SimplePlatformController" preserve="all"/>
+<type fullname="SpawnCoins" preserve="all"/>
+<type fullname="SpawnManager" preserve="all"/>
+</assembly>
+</linker>
